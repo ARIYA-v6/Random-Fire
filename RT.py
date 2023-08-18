@@ -5,5 +5,5 @@ os.system("git pull")
 
 
 
-import (PyInit_tanjila)
+import PyInit_tanjila
 tanjila.login()
